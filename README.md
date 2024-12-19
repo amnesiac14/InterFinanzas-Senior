@@ -1,4 +1,4 @@
-# InterFinanzasSenior
+# InterFinanzas-Senior
 Prototipo de herramienta digital que permita a los adultos mayores migrar sus registros financieros históricos de una manera sencilla. 
 Se muestra información al usuario mediante tablas y gráficas históricas. Éste solo se limita a llenar su información personal y financiera. (ingresos y gastos de distintos conceptos) 
 
